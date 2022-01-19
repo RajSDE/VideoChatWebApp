@@ -42,7 +42,7 @@ Visit Python Official Website to Download [Python](https://www.python.org/ftp/py
 4. Run the Code in Terminal of Parent directory to Start the server
 
 ```bash
-  python manage.py run server
+  python manage.py runserver
 ```
 5. Then, click of Local Host Server link to open the project in browser
 
