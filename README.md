@@ -18,16 +18,16 @@ Visit Python Official Website to Download [Python](https://www.python.org/ftp/py
 
 1. Download this project
 
-or
+    or
 
-You can clone it to your Github Account by executing the code below in your system terminal.
+    You can clone it to your Github Account by executing the code below in your system terminal.
 ```bash
   git clone https://github.com/AyeRaj/VideoChatWebApp.git
 ```
 
 2. Go to the project directory & open terminal
 
-Then, run the code given below to Install DJANGO framework in your system.
+    Then, run the code given below to Install DJANGO framework in your system.
 
 ```bash
   python -m pip install django
@@ -45,6 +45,7 @@ Then, run the code given below to Install DJANGO framework in your system.
   python manage.py run server
 ```
 5. Then, click of Local Host Server link to open the project in browser
+
 
 💬 Ask me, If your project is not running - 
 [Linkedin](https://www.linkedin.com/in/ayerajkumar)
