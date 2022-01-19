@@ -7,7 +7,7 @@
 This Project is a video chat web application made for making group videos and text chat with our friends.
 
 
-To RUN this project, Your system must be need Python3
+To RUN this project, Your system must have Python3 installed.
 
 
 ## Download Python & Install it
