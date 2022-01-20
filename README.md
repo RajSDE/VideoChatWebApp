@@ -20,7 +20,7 @@ Visit Python Official Website to Download [Python](https://www.python.org/ftp/py
 
     or
 
-    You can clone it to your Github Account by executing the code below in your system terminal.
+    You can clone it to your Github Account by executing the code below in your system terminal. (Ignore this step, If you have already downloaded)
 ```bash
   git clone https://github.com/AyeRaj/VideoChatWebApp.git
 ```
