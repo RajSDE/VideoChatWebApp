@@ -12,7 +12,7 @@ To RUN this project, Your system must have Python3 installed.
 
 ## Download Python & Install it
 
-Visit Python Official Website to Download [Python](https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe)
+Visit Python Official Website or Click here [Python3.10.1](https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe) to Download.
     
 ## Run Locally
 
