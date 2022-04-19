@@ -9,6 +9,9 @@ This Project is a video chat web application made for making group videos and te
 
 To RUN this project, Your system must have Python3 installed.
 
+## Screenshots
+![Screenshot](./Screenshots/mainView.png)
+![Screenshot](./Screenshots/meetingView.png)
 
 ## Download Python & Install it
 
