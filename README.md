@@ -41,6 +41,11 @@ Visit Python Official Website or Click here [Python3.10.1](https://www.python.or
 ```bash
   python -m pip install channels
 ```
+- Or You can directly install all the dependencies by
+> ignore this step if step 2 & 3 have been done.
+```bash
+  pip install -r requirements.txt
+```
 
 4. Run the Code in Terminal of Parent directory to Start the server
 
