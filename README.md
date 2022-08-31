@@ -1,4 +1,4 @@
-
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=AyeRaj" alt="Visitor badge"/>
 # Video Chat Web Application
 # Hi, I'm Raj! 👋
 ## 🔗 Links
